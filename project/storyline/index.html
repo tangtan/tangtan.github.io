@@ -3,8 +3,65 @@
 <head>
   <meta charset='utf-8' />
   <title>Storyline Material</title>
+  <style type="text/css">
+    .content-wrapper {
+      display: flex;
+      flex-direction: column;
+      padding: 0 500px;
+    }
+
+    .header-wrapper {
+      flex: 0 1 20vh;
+      display: flex;
+      flex-direction: row;
+    }
+
+    .header {
+      flex: 0 1 80%;
+    }
+
+    .title1 {
+      font-size: 36px;
+    }
+
+    .title2 {
+      font-size: 14px;
+    }
+
+    .project {
+      flex: 0 1 20%;
+    }
+
+    .content {
+      flex: 0 1 80vh;
+    }
+  </style>
 </head>
 <body>
-Hello
+  <div class="content-wrapper">
+    <div class="header-wrapper">
+      <div class="header">
+        <div class="title1">
+          Storyline Revisited
+        </div>
+        <div class="title2">
+          Effective Converges to Hand Drawn Storyline
+        </div>
+      </div>
+      <div class="project">
+        <a href="https://github.com/tangtan/storyline">Project Home</a>
+      </div>
+    </div>
+    <div class="content">
+      <div class="teaser">
+        <img src="./teaser.png">
+      </div>
+      <div class="user study">
+        <a href="#">Idea Inspiration</a>
+        <a href="#">Free-form Drawn Storyline</a>
+        <a href="#">Hand Drawn Storyline</a>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
