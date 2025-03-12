@@ -1,0 +1,21 @@
+.thumbnailContainer {
+    width: 14.1vw; /* 270.742px */
+    height: 18.556vh; /* 170.346px */
+    flex-shrink: 0;
+    border-radius: 4.115px;
+    border: 0.823px solid rgba(255, 255, 255, 0.70);
+    box-shadow: 0px 0px 1.25vw 1.25vh rgba(0, 0, 0, 0.75);
+    position: relative;
+}
+
+.title {
+    color: #FFF;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 14.4px */
+    letter-spacing: 0.12px;
+    position: absolute;
+    bottom: 0.692vh; /* 6.35px */
+    left: 0.4167vw; /* 4px */
+}

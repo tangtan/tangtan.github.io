@@ -12,5 +12,8 @@ code {
     monospace;
 }
 
-
-
+p {
+  margin: 0;
+  font-family: "SonnyVol2";
+  color: #FFF;
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: SonnyVol2;
+    src: url('./SonnyVol2/SonnyVol2-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: SonnyVol2;
+    src: url('./SonnyVol2/SonnyVol2-RegularItalic.ttf');
+    font-weight: normal;
+    font-style: italic;
+}

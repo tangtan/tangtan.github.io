@@ -1,0 +1,31 @@
+{
+  "id": "2021_vis_socialposts",
+  "type": "journal",
+  "title": "Real-time visual analysis of high-volume social media posts",
+  "keywords": [],
+  "authors": [
+    "Knittel, Johannes",
+    "Koch, Steffen",
+    "Tang, Tan",
+    "Chen, Wei",
+    "Wu, Yingcai",
+    "Liu, Shixia",
+    "Ertl, Thomas"
+  ],
+  "publisher": "IEEE",
+  "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "doi": "",
+  "resources": {
+    "official": "",
+    "pdf": "/repository/publications/2021_vis_socialposts/2021_vis_socialposts.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2021_vis_socialposts/2021_vis_socialposts_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

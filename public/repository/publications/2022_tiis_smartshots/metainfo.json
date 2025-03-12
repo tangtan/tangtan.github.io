@@ -1,0 +1,35 @@
+{
+  "id": "2022_tiis_smartshots",
+  "type": "journal",
+  "title": "SmartShots: An Optimization Approach for Generating Videos with Data Visualizations Embedded",
+  "keywords": [
+    "Visualization",
+    "data-driven videos",
+    "optimization"
+  ],
+  "authors": [
+    "Tang, Tan",
+    "Tang, Junxiu",
+    "Lai, Jiewen",
+    "Ying, Lu",
+    "Wu, Yingcai",
+    "Yu, Lingyun",
+    "Ren, Peiran"
+  ],
+  "publisher": "Association for Computing Machinery",
+  "publishTitle": "ACM Trans. Interact. Intell. Syst.",
+  "year": 2022,
+  "doi": "10.1145/3484506",
+  "resources": {
+    "official": "https://doi.org/10.1145/3484506",
+    "pdf": "/repository/publications/2022_tiis_smartshots/SmartShots-TiiS.pdf",
+    "video": "/repository/publications/2022_tiis_smartshots/SmartShots.mp4",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2022_tiis_smartshots/2022_tiis_smartshots_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "awards": [],
+  "highlight": true
+}

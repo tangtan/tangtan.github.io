@@ -1,0 +1,29 @@
+{
+  "id": "2021_vis_videomoderator",
+  "type": "journal",
+  "title": "Videomoderator: A risk-aware framework for multimodal video moderation in e-commerce",
+  "keywords": [],
+  "authors": [
+    "Tang, Tan",
+    "Wu, Yanhong",
+    "Wu, Yingcai",
+    "Yu, Lingyun",
+    "Li, Yuhong"
+  ],
+  "publisher": "IEEE",
+  "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "doi": "",
+  "resources": {
+    "official": "",
+    "pdf": "/repository/publications/2021_vis_videomoderator/2021_vis_videomoderator.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2021_vis_videomoderator/2021_vis_videomoderator_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

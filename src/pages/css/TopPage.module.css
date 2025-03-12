@@ -1,0 +1,308 @@
+.topPage {
+    padding: 6.754vh 0 0 3.646vw;
+    height: 93.246vh; /* 100vh - 6.754vh = 918 */
+    width: 96.354vw; /* 1920 - 70 = 1850 */
+    background: #0D1117;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+}
+
+.topPage .glowPoint {
+    width: 17.9vw; /*343px*/
+    aspect-ratio: 1;
+    border-radius: 17.9vw;
+    background: #E0FFF5;
+    box-shadow: 0px 0px 885.361px 0px #0FC, 0px 0px 505.921px 0px #0FC, 0px 0px 295.12px 0px #0FC, 0px 0px 147.56px 0px #0FC, 0px 0px 42.16px 0px #0FC, 0px 0px 21.08px 0px #0FC;
+    position: absolute;
+    filter: blur(4.17vw); /*手动添加*/
+    opacity: 0.45;
+}
+.glowPoint#point1 { 
+    left: -20vw;
+    bottom: -10vh;
+    
+}
+.glowPoint#point2 { 
+    right: -20vw;
+    top: -10vh;
+}
+
+.profile {
+    min-width: 250px;
+    width: 26.2vw; /* 503px */
+    margin-right: 6vh; /*58px*/
+}
+
+.profile .namecard {
+    display: grid;
+    grid-template-columns: 11.2vw 10.78vw;  /* 215px 207px */
+    grid-template-rows: 6vh 8.06vh 6.75vh 2.6vh; /* 55px 74px 62px 24px */
+    grid-column-gap: 1.9271vw; /* 37px */
+    grid-row-gap: 0px; /* 0px */
+    margin-bottom: 6.32vh; /* 58px */
+}
+
+.profile .namecard .avatar {
+    width: 11.2vw; /*215px*/
+    height: 23.42vh;
+    border-radius: 5px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.profile .namecard #englishName {
+    grid-area: 1 / 2 / 2 / 3; 
+    color: #FFF;
+    font-size: 2.08vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.profile .namecard #chineseName { 
+    grid-area: 2 / 2 / 3 / 3;
+    color: #FFF;
+    font-family: "HarmonyOS Sans SC";
+    font-size: 2.08vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 5.2px;
+}
+
+.profile .namecard #title { 
+    grid-area: 3 / 2 / 4 / 3;
+    color: #FFF;
+    font-size: 1.0417vw; /* 20px */
+    font-style: normal;
+    font-weight: 700;
+    line-height: 135%;
+}
+
+.profile .namecard #websites { 
+    grid-area: 4 / 2 / 5 / 3; 
+    width: 7.03125vw;
+    height: 2.6vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.4vh;
+}
+
+.profile .namecard #websites .website {
+    width: 1.25vw; /*24px*/
+    aspect-ratio: 1;
+    flex-shrink: 0;
+    background-color: #FFF;
+}
+
+.profile .descriptionContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 5.2vh; /*50px*/
+}
+.profile .descriptionContainer .description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 2.5vh;  /*24px*/
+}
+
+.mainContent {
+    width: 61.5vw; /*1179px*/
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4.6vh; /*39px 45px 43.56px*/
+    flex-grow: 1;
+    max-width: calc(100% - 26.2vw - 3.646vw);
+}
+
+.mainContent .menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.77vw; /*34px*/
+}
+
+.mainContent .menu .menuItemSelected {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.2px;
+}
+
+.mainContent .menu .menuItemSelectedUnderline {
+    width: 74px;
+    height: 1px;
+    background: #FFF;
+    /* 放光 */
+    box-shadow: 0px 0px 60.601px 0px #00FFBF, 0px 0px 34.629px 0px #00FFBF, 0px 0px 20.2px 0px #00FFBF, 0px 0px 10.1px 0px #00FFBF, 0px 0px 2.886px 0px #00FFBF, 0px 0px 1.443px 0px #00FFBF;
+    margin-top: 0.2vh;
+}
+
+.mainContent .menu .menuItem {
+    color: rgba(255, 255, 255, 0.50);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    cursor: pointer;
+}
+
+.mainContent .sloganContainer {
+
+}
+
+.mainContent .sloganContainer .sloganTitle {
+    color: #FFF;
+    font-size: 64px; 
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.mainContent .sloganContainer .sloganText {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 70%;
+}
+
+.mainContent .researchDirectionContainer {
+    
+}
+
+.mainContent .researchDirectionContainer .researchDirectionTitle {
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 5.23vh; /* 48px */
+    display: inline-block;
+}
+
+.mainContent .researchDirectionContainer .researchDirectionContent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2.7vw; /*52px*/
+}
+
+.mainContent .researchDirectionContainer .researchDirectionContent .researchDirectionItem {
+    width: 16vw; /*330px 17.1875vw*/
+    height: 12.1vh; /*111px*/
+    position: relative;
+}
+
+.mainContent .researchDirectionContainer .researchDirectionContent .researchDirectionItem .title {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    position: absolute;
+    top: 1.5251vh; /*14px*/
+    left: 0.9375vw; /*18px*/
+}
+
+.mainContent .researchDirectionContainer .researchDirectionContent .researchDirectionItem .icon {
+
+}
+
+.mainContent .researchDirectionContainer .researchDirectionContent .researchDirectionItem .text {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 140%; /* 0px */
+    width: 100%;
+    margin-top: 1.2vh; /*11px*/
+}
+
+
+
+.mainContent .projectsContainer {
+}
+
+.mainContent .projectsContainer .projectsTitle {
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 5.23vh; /* 48px */
+    display: inline-block;
+    margin-bottom: 1.743vh; /*16px*/
+}
+
+.mainContent .projectsContainer .projectsContent {
+    display: grid;
+    grid-template-columns: repeat(4, 14.1vw);
+    grid-auto-rows: repeat(auto-fill, 18.556vh); /* 修改为自动行高 */
+    grid-column-gap: 1.6667vw;
+    grid-row-gap: 3.4477vh; /*3.4477vh*/
+    overflow-y: auto;  /* 启用垂直滚动 */
+    overflow-x: hidden; /* 隐藏水平滚动 */
+    height: 33vh; /* 显式设置高度 */
+    width: 65vw; /* 1182px 61.5625vw*/
+    /* padding-right: 8px; 给滚动条留出空间 */
+}
+
+/* 自定义滚动条样式 */
+.projectsContent::-webkit-scrollbar {
+    width: 0px;
+    background-color: rgba(13,17,23,0.5);
+}
+
+.projectsContent::-webkit-scrollbar-thumb {
+    background-color: #3186FF;
+    border-radius: 3px;
+}
+
+.projectsContent::-webkit-scrollbar-thumb:hover {
+    background-color: #1f6fd8;
+}
+
+/* Publications页内容 */
+/* 论文列表容器 */
+.publicationsContainer {
+    width: 65vw; /* 1182px 61.5625vw*/
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4vh; /* 36px */
+    overflow: hidden auto;
+}
+
+/* 单个论文卡片样式 */
+.publicationCard {
+    transition: transform 0.3s ease;
+}
+
+.publicationCard:hover {
+    transform: translateY(-5px);
+}
+
+.publicationsContainer::-webkit-scrollbar {
+    width: 0px;
+}
+
+
+

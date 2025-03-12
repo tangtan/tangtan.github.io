@@ -1,0 +1,240 @@
+{
+  "fileName": "paper_index.json",
+  "publications": [
+    {
+      "id": "2022_vis_metaglyph",
+      "type": "journal",
+      "title": "MetaGlyph: Automatic Generation of Metaphoric Glyph-based Visualization",
+      "keywords": [
+        "Data visualization",
+        "Visualization",
+        "Semantics",
+        "Layout",
+        "Authoring systems",
+        "Task analysis",
+        "Shape",
+        "Glyph-based visualization",
+        "metaphor",
+        "machine learning",
+        "automatic visualization"
+      ],
+      "authors": [
+        "Ying, Lu",
+        "Shu, Xinhuan",
+        "Deng, Dazhen",
+        "Yang, Yuchen",
+        "Tang, Tan",
+        "Yu, Lingyun",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2023,
+      "doi": "10.1109/TVCG.2022.3209447",
+      "resources": {
+        "official": "https://doi.org/10.1109/TVCG.2022.3209447",
+        "pdf": "/repository/publications/2022_vis_metaglyph/2022_vis_metaglyph.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2022_vis_metaglyph/2022_vis_metaglyph_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "awards": [],
+      "highlight": true
+    },
+    {
+      "id": "2023_uist_pcolorizer",
+      "type": "conference",
+      "title": "PColorizor: Re-coloring Ancient Chinese Paintings with Ideorealm-congruent Poems",
+      "keywords": [
+        "Ancient Chinese Art",
+        "Color Restoration",
+        "Visual Analytic"
+      ],
+      "authors": [
+        "Tang, Tan",
+        "Wu, Yanhong",
+        "Xia, Peiquan",
+        "Wu, Wange",
+        "Wang, Xiaosong",
+        "Wu, Yingcai"
+      ],
+      "publisher": "Association for Computing Machinery",
+      "publishTitle": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+      "year": 2023,
+      "doi": "10.1145/3586183.3606814",
+      "resources": {
+        "official": "https://doi.org/10.1145/3586183.3606814",
+        "pdf": "/repository/publications/2023_uist_pcolorizer/2023_uist_pcolorizer.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2023_uist_pcolorizer/QQ图片20250311233510.png"
+      ],
+      "tags": [],
+      "awards": [],
+      "highlight": true
+    },
+    {
+      "id": "2022_tiis_smartshots",
+      "type": "journal",
+      "title": "SmartShots: An Optimization Approach for Generating Videos with Data Visualizations Embedded",
+      "keywords": [
+        "Visualization",
+        "data-driven videos",
+        "optimization"
+      ],
+      "authors": [
+        "Tang, Tan",
+        "Tang, Junxiu",
+        "Lai, Jiewen",
+        "Ying, Lu",
+        "Wu, Yingcai",
+        "Yu, Lingyun",
+        "Ren, Peiran"
+      ],
+      "publisher": "Association for Computing Machinery",
+      "publishTitle": "ACM Trans. Interact. Intell. Syst.",
+      "year": 2022,
+      "doi": "10.1145/3484506",
+      "resources": {
+        "official": "https://doi.org/10.1145/3484506",
+        "pdf": "/repository/publications/2022_tiis_smartshots/SmartShots-TiiS.pdf",
+        "video": "/repository/publications/2022_tiis_smartshots/SmartShots.mp4",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2022_tiis_smartshots/2022_tiis_smartshots_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "awards": [],
+      "highlight": true
+    },
+    {
+      "id": "2021_vis_glyphcreator",
+      "type": "journal",
+      "title": "GlyphCreator: Towards example-based automatic generation of circular glyphs",
+      "keywords": [],
+      "authors": [
+        "Ying, Lu",
+        "Tang, Tan",
+        "Luo, Yuzhe",
+        "Shen, Lvkeshen",
+        "Xie, Xiao",
+        "Yu, Lingyun",
+        "Wu, Yingcai"
+      ],
+      "publisher": "IEEE",
+      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2021,
+      "doi": "",
+      "resources": {
+        "official": "",
+        "pdf": "/repository/publications/2021_vis_glyphcreator/2021_vis_glyphcreator.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2021_vis_glyphcreator/2021_vis_glyphcreator_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2021_vis_ordermonitor",
+      "type": "journal",
+      "title": "A visualization approach for monitoring order processing in e-commerce warehouse",
+      "keywords": [],
+      "authors": [
+        "Tang, Junxiu",
+        "Zhou, Yuhua",
+        "Tang, Tan",
+        "Weng, Di",
+        "Xie, Boyang",
+        "Yu, Lingyun",
+        "Zhang, Huaqiang",
+        "Wu, Yingcai"
+      ],
+      "publisher": "IEEE",
+      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2021,
+      "doi": "",
+      "resources": {
+        "official": "",
+        "pdf": "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2021_vis_socialposts",
+      "type": "journal",
+      "title": "Real-time visual analysis of high-volume social media posts",
+      "keywords": [],
+      "authors": [
+        "Knittel, Johannes",
+        "Koch, Steffen",
+        "Tang, Tan",
+        "Chen, Wei",
+        "Wu, Yingcai",
+        "Liu, Shixia",
+        "Ertl, Thomas"
+      ],
+      "publisher": "IEEE",
+      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2021,
+      "doi": "",
+      "resources": {
+        "official": "",
+        "pdf": "/repository/publications/2021_vis_socialposts/2021_vis_socialposts.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2021_vis_socialposts/2021_vis_socialposts_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2021_vis_videomoderator",
+      "type": "journal",
+      "title": "Videomoderator: A risk-aware framework for multimodal video moderation in e-commerce",
+      "keywords": [],
+      "authors": [
+        "Tang, Tan",
+        "Wu, Yanhong",
+        "Wu, Yingcai",
+        "Yu, Lingyun",
+        "Li, Yuhong"
+      ],
+      "publisher": "IEEE",
+      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2021,
+      "doi": "",
+      "resources": {
+        "official": "",
+        "pdf": "/repository/publications/2021_vis_videomoderator/2021_vis_videomoderator.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2021_vis_videomoderator/2021_vis_videomoderator_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    }
+  ]
+}

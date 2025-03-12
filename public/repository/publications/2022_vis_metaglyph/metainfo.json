@@ -1,0 +1,43 @@
+{
+  "id": "2022_vis_metaglyph",
+  "type": "journal",
+  "title": "MetaGlyph: Automatic Generation of Metaphoric Glyph-based Visualization",
+  "keywords": [
+    "Data visualization",
+    "Visualization",
+    "Semantics",
+    "Layout",
+    "Authoring systems",
+    "Task analysis",
+    "Shape",
+    "Glyph-based visualization",
+    "metaphor",
+    "machine learning",
+    "automatic visualization"
+  ],
+  "authors": [
+    "Ying, Lu",
+    "Shu, Xinhuan",
+    "Deng, Dazhen",
+    "Yang, Yuchen",
+    "Tang, Tan",
+    "Yu, Lingyun",
+    "Wu, Yingcai"
+  ],
+  "publisher": "",
+  "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2023,
+  "doi": "10.1109/TVCG.2022.3209447",
+  "resources": {
+    "official": "https://doi.org/10.1109/TVCG.2022.3209447",
+    "pdf": "/repository/publications/2022_vis_metaglyph/2022_vis_metaglyph.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2022_vis_metaglyph/2022_vis_metaglyph_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "awards": [],
+  "highlight": true
+}

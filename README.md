@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# OpenArt官方网站
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 部署方法
 
-## Available Scripts
+先将项目clone到本地或服务器，使用gh-pages将项目托管至github单页静态页面。[使用方法]([Deploying to GitHub Pages using gh-pages - DEV Community](https://dev.to/scc33/deploying-to-github-pages-using-gh-pages-2d95))，其中，注意当使用react-router-dom时，需要在 `package.json` 中指定`homepage`属性，并且在`createBrowserRouter`中指定basename `{basename: '/'} `。
 
-In the project directory, you can run:
+### 数据更新
 
-### `npm start`
+本项目添加新publication的方式为：
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. 在 `public/repository/publications` 目录下新建一个目录，目录名称符合规范诸如 `2023_uist_pcolorizer` 。
+2. 在新建的publication目录下添加该文章的`Bibtex`引用信息，并保存为bib后缀名格式的文件，该项为必填项。
+3. 可以在新建的publication目录下添加文章的pdf文件、演示视频文件，以及效果展示图片，程序会自动读取信息。
+4. 添加完成后，运行 `src/utils/generate_paper_index.py` 脚本文件（附 `requirements.txt` ），首先会生成每篇文章的metainfo。生成之后，可以对metainfo进行手动修改，例如期刊名或会议名、视频链接、开源项目链接、文章的tag、文章是否高亮显示在Homepage中等。手动更改完毕后，输入 `y` 进行确认，将所有metainfo合并为索引文件。
+5. 如果一篇publication有内容更新，需要调用程序重新生成metainfo，则需要手动删除 `metainfo.json`，并且调用脚本文件重新生成，否则metainfo不会自动更新。
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+注：
 
-### `npm test`
+1. 更新机制解释：脚本文件会根据目录下存放的bib文件生成该文章的基本元数据，生成策略可以阅读 `public/repository/paper_index_model.json` 了解。
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+2. DEBUG程序：`clear_metainfo.py` 会删除所有metainfo，丢失所有手动设置内容，仅debug时使用。
+3. 如果没有效果展示图片，程序会自动从PDF文件中提取。

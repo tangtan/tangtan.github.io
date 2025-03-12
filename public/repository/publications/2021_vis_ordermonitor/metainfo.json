@@ -1,0 +1,32 @@
+{
+  "id": "2021_vis_ordermonitor",
+  "type": "journal",
+  "title": "A visualization approach for monitoring order processing in e-commerce warehouse",
+  "keywords": [],
+  "authors": [
+    "Tang, Junxiu",
+    "Zhou, Yuhua",
+    "Tang, Tan",
+    "Weng, Di",
+    "Xie, Boyang",
+    "Yu, Lingyun",
+    "Zhang, Huaqiang",
+    "Wu, Yingcai"
+  ],
+  "publisher": "IEEE",
+  "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "doi": "",
+  "resources": {
+    "official": "",
+    "pdf": "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

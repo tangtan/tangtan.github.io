@@ -1,0 +1,32 @@
+.title {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.splitLine {
+    background: linear-gradient(270deg, rgba(255, 255, 255, 0.00) 0%, #FFF 100%);
+    width: 26.2vw; /* 503px */
+    height: 1px;
+    margin-top: 8px;
+}
+
+.descriptionContent {
+    width: 25vw; /*480px*/
+    color: #FFF;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 350;
+    line-height: 150%; /* 18px */
+    margin-top: 16px;
+}
+
+.descriptionContent strong {
+    color: #000 !important;
+    background-color: #FFF;
+    border-radius: 3px;
+    padding: 0 2px;
+    margin: 0 1px;
+}
