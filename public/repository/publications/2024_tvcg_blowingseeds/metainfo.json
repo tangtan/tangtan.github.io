@@ -1,0 +1,44 @@
+{
+  "id": "2024_tvcg_blowingseeds",
+  "type": "journal",
+  "title": "Blowing Seeds Across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts",
+  "keywords": [
+    "Blogs",
+    "Information diffusion",
+    "Visual analytics",
+    "Fans",
+    "Media",
+    "Interviews",
+    "Flowering plants",
+    "Propagation analysis",
+    "social media visualization",
+    "cross-platform propagation",
+    "metaphor design"
+  ],
+  "authors": [
+    "Yin, Jianing",
+    "Jia, Hanze",
+    "Zhou, Buwei",
+    "Tang, Tan",
+    "Ying, Lu",
+    "Ye, Shuainan",
+    "Peng, Tai-Quan",
+    "Wu, Yingcai"
+  ],
+  "publisher": "",
+  "year": 2025,
+  "publishTitle": "2025 IEEE Transactions on Visualization and Computer Graphics",
+  "doi": "10.1109/TVCG.2024.3456181",
+  "resources": {
+    "official": "https://doi.org/10.1109/TVCG.2024.3456181",
+    "pdf": "/repository/publications/2024_tvcg_blowingseeds/Blowing_Seeds_Across_Gardens_Visualizing_Implicit_Propagation_of_Cross-Platform_Social_Media_Posts.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2024_tvcg_blowingseeds/2024_tvcg_blowingseeds_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

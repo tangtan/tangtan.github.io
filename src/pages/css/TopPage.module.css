@@ -259,7 +259,7 @@
     grid-row-gap: 3.4477vh; /*3.4477vh*/
     overflow-y: auto;  /* 启用垂直滚动 */
     overflow-x: hidden; /* 隐藏水平滚动 */
-    height: 33vh; /* 显式设置高度 */
+    height: 28vh; /* 显式设置高度 */
     width: 65vw; /* 1182px 61.5625vw*/
     /* padding-right: 8px; 给滚动条留出空间 */
 }
@@ -282,6 +282,7 @@
 /* Publications页内容 */
 /* 论文列表容器 */
 .publicationsContainer {
+    padding-top: 1.31vh; /*12px*/
     width: 65vw; /* 1182px 61.5625vw*/
     display: flex;
     flex-direction: column;

@@ -1,0 +1,33 @@
+{
+  "id": "2017_jvlc_unmat",
+  "type": "journal",
+  "title": "UNMAT: Visual comparison and exploration of uncertainty in large graph sampling",
+  "keywords": [
+    "Uncertainty",
+    "Graph sampling",
+    "Spread-sheet visualization"
+  ],
+  "authors": [
+    "Tan Tang",
+    "Sufei Wang",
+    "Yunfeng Li",
+    "Bohan Li",
+    "Yingcai Wu"
+  ],
+  "publisher": "",
+  "publishTitle": "2017 Journal of Visual Languages & Computing",
+  "year": 2017,
+  "doi": "10.1016/j.jvlc.2017.05.006",
+  "resources": {
+    "official": "https://doi.org/10.1016/j.jvlc.2017.05.006",
+    "pdf": "/repository/publications/2017_jvlc_unmat/2017_jvlc_unmat.pdf",
+    "video": "/repository/publications/2017_jvlc_unmat/2017_jvlc_unmat.mp4",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2017_jvlc_unmat/2017_jvlc_unmat_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

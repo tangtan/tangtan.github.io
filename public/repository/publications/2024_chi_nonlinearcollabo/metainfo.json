@@ -1,0 +1,33 @@
+{
+  "id": "2024_chi_nonlinearcollabo",
+  "type": "conference",
+  "title": "Understanding Nonlinear Collaboration between Human and AI Agents: A Co-design Framework for Creative Design",
+  "keywords": [
+    "Creative Design",
+    "Creativity Support Tool",
+    "Human-AI Co-creativity"
+  ],
+  "authors": [
+    "Zhou, Jiayi",
+    "Li, Renzhong",
+    "Tang, Junxiu",
+    "Tang, Tan",
+    "Li, Haotian",
+    "Cui, Weiwei",
+    "Wu, Yingcai"
+  ],
+  "publisher": "Association for Computing Machinery",
+  "year": 2024,
+  "publishTitle": "2024 Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
+  "doi": "10.1145/3613904.3642812",
+  "resources": {
+    "official": "https://doi.org/10.1145/3613904.3642812",
+    "pdf": "",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [],
+  "tags": [],
+  "highlight": false,
+  "awards": []
+}

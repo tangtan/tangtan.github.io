@@ -2,6 +2,236 @@
   "fileName": "paper_index.json",
   "publications": [
     {
+      "id": "2024_tvcg_blowingseeds",
+      "type": "journal",
+      "title": "Blowing Seeds Across Gardens: Visualizing Implicit Propagation of Cross-Platform Social Media Posts",
+      "keywords": [
+        "Blogs",
+        "Information diffusion",
+        "Visual analytics",
+        "Fans",
+        "Media",
+        "Interviews",
+        "Flowering plants",
+        "Propagation analysis",
+        "social media visualization",
+        "cross-platform propagation",
+        "metaphor design"
+      ],
+      "authors": [
+        "Yin, Jianing",
+        "Jia, Hanze",
+        "Zhou, Buwei",
+        "Tang, Tan",
+        "Ying, Lu",
+        "Ye, Shuainan",
+        "Peng, Tai-Quan",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "year": 2025,
+      "publishTitle": "2025 IEEE Transactions on Visualization and Computer Graphics",
+      "doi": "10.1109/TVCG.2024.3456181",
+      "resources": {
+        "official": "https://doi.org/10.1109/TVCG.2024.3456181",
+        "pdf": "/repository/publications/2024_tvcg_blowingseeds/Blowing_Seeds_Across_Gardens_Visualizing_Implicit_Propagation_of_Cross-Platform_Social_Media_Posts.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2024_tvcg_blowingseeds/2024_tvcg_blowingseeds_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2024_chi_nonlinearcollabo",
+      "type": "conference",
+      "title": "Understanding Nonlinear Collaboration between Human and AI Agents: A Co-design Framework for Creative Design",
+      "keywords": [
+        "Creative Design",
+        "Creativity Support Tool",
+        "Human-AI Co-creativity"
+      ],
+      "authors": [
+        "Zhou, Jiayi",
+        "Li, Renzhong",
+        "Tang, Junxiu",
+        "Tang, Tan",
+        "Li, Haotian",
+        "Cui, Weiwei",
+        "Wu, Yingcai"
+      ],
+      "publisher": "Association for Computing Machinery",
+      "year": 2024,
+      "publishTitle": "2024 Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
+      "doi": "10.1145/3613904.3642812",
+      "resources": {
+        "official": "https://doi.org/10.1145/3613904.3642812",
+        "pdf": "",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2024_sag_lossofsonnet",
+      "type": "conference",
+      "title": "Loss of Sonnet 18",
+      "keywords": [],
+      "authors": [
+        "Tang, Junxiu",
+        "Zhou, Jiayi",
+        "Wang, Yifang",
+        "Shu, Xinhuan",
+        "Xia, Peiquan",
+        "Chen, Xiaojiao",
+        "Tang, Tan",
+        "Wu, Yingcai"
+      ],
+      "publisher": "Association for Computing Machinery",
+      "year": 2024,
+      "publishTitle": "2024 ACM SIGGRAPH 2024 Art Gallery",
+      "doi": "10.1145/3641523.3669939",
+      "resources": {
+        "official": "https://doi.org/10.1145/3641523.3669939",
+        "pdf": "",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2024_tvcg_spatialvisualizing",
+      "type": "journal",
+      "title": "Visualizing Large-Scale Spatial Time Series with GeoChron",
+      "keywords": [
+        "Visualization",
+        "Market research",
+        "Spatiotemporal phenomena",
+        "Correlation",
+        "Data visualization",
+        "Time series analysis",
+        "Layout",
+        "Spatiotemporal visualization",
+        "spatial time series",
+        "Storyline"
+      ],
+      "authors": [
+        "Deng, Zikun",
+        "Chen, Shifu",
+        "Schreck, Tobias",
+        "Deng, Dazhen",
+        "Tang, Tan",
+        "Xu, Mingliang",
+        "Weng, Di",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "year": 2024,
+      "publishTitle": "2024 IEEE Transactions on Visualization and Computer Graphics",
+      "doi": "10.1109/TVCG.2023.3327162",
+      "resources": {
+        "official": "https://doi.org/10.1109/TVCG.2023.3327162",
+        "pdf": "/repository/publications/2024_tvcg_spatialvisualizing/Visualizing_Large-Scale_Spatial_Time_Series_with_GeoChron.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2024_tvcg_spatialvisualizing/2024_tvcg_spatialvisualizing_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2024_vi_arteyer",
+      "type": "journal",
+      "title": "ArtEyer: Enriching GPT-based agents with contextual data visualizations for fine art authentication",
+      "keywords": [
+        "GPT agent",
+        "Data visualization",
+        "Fine art authentication"
+      ],
+      "authors": [
+        "Tan Tang",
+        "Yanhong Wu",
+        "Junming Gao",
+        "Kejia Ruan",
+        "Yanjie Zhang",
+        "Shuainan Ye",
+        "Yingcai Wu",
+        "Xiaojiao Chen"
+      ],
+      "publisher": "",
+      "year": 2024,
+      "publishTitle": "2024 Visual Informatics",
+      "doi": "https://doi.org/10.1016/j.visinf.2024.11.001",
+      "resources": {
+        "official": "https://doi.org/https://doi.org/10.1016/j.visinf.2024.11.001",
+        "pdf": "/repository/publications/2024_vi_arteyer/1-s2.0-S2468502X24000664-main.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2024_vi_arteyer/2024_vi_arteyer_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2024_vr_volleynaut",
+      "type": "conference",
+      "title": "VolleyNaut: Pioneering Immersive Training for Inclusive Sitting Volleyball Skill Development",
+      "keywords": [
+        "Training",
+        "Three-dimensional displays",
+        "Collaboration",
+        "Virtual reality",
+        "Mental health",
+        "User interfaces",
+        "Sports",
+        "Sitting volleyball",
+        "virtual reality",
+        "inclusive training",
+        "immersive sports training",
+        "accessible communities",
+        "SportsXR"
+      ],
+      "authors": [
+        "Gong, Ut",
+        "Jia, Hanze",
+        "Wang, Yujie",
+        "Tang, Tan",
+        "Xie, Xiao",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "year": 2024,
+      "publishTitle": "2024 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)",
+      "doi": "10.1109/VR58804.2024.00121",
+      "resources": {
+        "official": "https://doi.org/10.1109/VR58804.2024.00121",
+        "pdf": "/repository/publications/2024_vr_volleynaut/VolleyNaut_Pioneering_Immersive_Training_for_Inclusive_Sitting_Volleyball_Skill_Development.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2024_vr_volleynaut/2024_vr_volleynaut_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
       "id": "2022_vis_metaglyph",
       "type": "journal",
       "title": "MetaGlyph: Automatic Generation of Metaphoric Glyph-based Visualization",
@@ -28,7 +258,7 @@
         "Wu, Yingcai"
       ],
       "publisher": "",
-      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+      "publishTitle": "2023 IEEE Transactions on Visualization and Computer Graphics",
       "year": 2023,
       "doi": "10.1109/TVCG.2022.3209447",
       "resources": {
@@ -62,7 +292,7 @@
         "Wu, Yingcai"
       ],
       "publisher": "Association for Computing Machinery",
-      "publishTitle": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+      "publishTitle": "2023 Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
       "year": 2023,
       "doi": "10.1145/3586183.3606814",
       "resources": {
@@ -77,6 +307,216 @@
       "tags": [],
       "awards": [],
       "highlight": true
+    },
+    {
+      "id": "2023_visap_postnoresponse",
+      "type": "conference",
+      "title": "Posts with No Response: The Island of Loneliness",
+      "keywords": [
+        "Art",
+        "Social networking (online)",
+        "Data visualization",
+        "Information age",
+        "Complexity theory",
+        "Social Media",
+        "Loneliness",
+        "Physical Visualization",
+        "Data Visualization",
+        "Data Art"
+      ],
+      "authors": [
+        "Tang, Junxiu",
+        "Shu, Xinhuan",
+        "Sheng, Rui",
+        "Chen, Xiaojiao",
+        "Wang, Yifang",
+        "Tang, Tan",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "year": 2023,
+      "publishTitle": "2023 2023 IEEE VIS Arts Program (VISAP)",
+      "doi": "10.1109/VISAP60414.2023.00007",
+      "resources": {
+        "official": "https://doi.org/10.1109/VISAP60414.2023.00007",
+        "pdf": "/repository/publications/2023_visap_postnoresponse/Posts_with_No_Response_The_Island_of_Loneliness.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2023_visap_postnoresponse/2023_visap_postnoresponse_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2021_vis_glyphcreator",
+      "type": "journal",
+      "title": "GlyphCreator: Towards Example-based Automatic Generation of Circular Glyphs",
+      "keywords": [
+        "Data visualization",
+        "Visualization",
+        "Layout",
+        "Deep learning",
+        "Data mining",
+        "Tools",
+        "Task analysis",
+        "Glyph-based visualization",
+        "machine learning",
+        "automatic visualization"
+      ],
+      "authors": [
+        "Ying, Lu",
+        "Tang, Tan",
+        "Luo, Yuzhe",
+        "Shen, Lvkeshen",
+        "Xie, Xiao",
+        "Yu, Lingyun",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "publishTitle": "2022 IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2022,
+      "doi": "10.1109/TVCG.2021.3114877",
+      "resources": {
+        "official": "https://doi.org/10.1109/TVCG.2021.3114877",
+        "pdf": "/repository/publications/2021_vis_glyphcreator/2021_vis_glyphcreator.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2021_vis_glyphcreator/2021_vis_glyphcreator_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2021_vis_ordermonitor",
+      "type": "journal",
+      "title": "A Visualization Approach for Monitoring Order Processing in E-Commerce Warehouse",
+      "keywords": [
+        "Data visualization",
+        "Monitoring",
+        "Real-time systems",
+        "Schedules",
+        "Delays",
+        "Warehousing",
+        "Visual analytics",
+        "Streaming data",
+        "time-series data",
+        "e-commerce warehouse",
+        "order processing"
+      ],
+      "authors": [
+        "Tang, Junxiu",
+        "Zhou, Yuhua",
+        "Tang, Tan",
+        "Weng, Di",
+        "Xie, Boyang",
+        "Yu, Lingyun",
+        "Zhang, Huaqiang",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "publishTitle": "2022 IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2022,
+      "doi": "10.1109/TVCG.2021.3114878",
+      "resources": {
+        "official": "https://doi.org/10.1109/TVCG.2021.3114878",
+        "pdf": "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2021_vis_socialposts",
+      "type": "journal",
+      "title": "Real-Time Visual Analysis of High-Volume Social Media Posts",
+      "keywords": [
+        "Social networking (online)",
+        "Heuristic algorithms",
+        "Data visualization",
+        "Clustering algorithms",
+        "Real-time systems",
+        "Text analysis",
+        "Visual analytics",
+        "Social media analysis",
+        "dynamic clustering",
+        "streaming data"
+      ],
+      "authors": [
+        "Knittel, Johannes",
+        "Koch, Steffen",
+        "Tang, Tan",
+        "Chen, Wei",
+        "Wu, Yingcai",
+        "Liu, Shixia",
+        "Ertl, Thomas"
+      ],
+      "publisher": "",
+      "publishTitle": "2022 IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2022,
+      "doi": "10.1109/TVCG.2021.3114800",
+      "resources": {
+        "official": "https://doi.org/10.1109/TVCG.2021.3114800",
+        "pdf": "/repository/publications/2021_vis_socialposts/2021_vis_socialposts.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2021_vis_socialposts/2021_vis_socialposts_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2021_vis_videomoderator",
+      "type": "journal",
+      "title": "VideoModerator: A Risk-aware Framework for Multimodal Video Moderation in E-Commerce",
+      "keywords": [
+        "Visualization",
+        "Task analysis",
+        "Visual analytics",
+        "Machine learning",
+        "Motion pictures",
+        "Feature extraction",
+        "Data mining",
+        "video moderation",
+        "video visualization",
+        "e-commerce livestreaming"
+      ],
+      "authors": [
+        "Tang, Tan",
+        "Wu, Yanhong",
+        "Wu, Yingcai",
+        "Yu, Lingyun",
+        "Li, Yuhong"
+      ],
+      "publisher": "",
+      "publishTitle": "2022 IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2022,
+      "doi": "10.1109/TVCG.2021.3114781",
+      "resources": {
+        "official": "https://doi.org/10.1109/TVCG.2021.3114781",
+        "pdf": "/repository/publications/2021_vis_videomoderator/2021_vis_videomoderator.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2021_vis_videomoderator/2021_vis_videomoderator_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": false,
+      "awards": []
     },
     {
       "id": "2022_tiis_smartshots",
@@ -97,7 +537,7 @@
         "Ren, Peiran"
       ],
       "publisher": "Association for Computing Machinery",
-      "publishTitle": "ACM Trans. Interact. Intell. Syst.",
+      "publishTitle": "2022 ACM Trans. Interact. Intell. Syst.",
       "year": 2022,
       "doi": "10.1145/3484506",
       "resources": {
@@ -114,123 +554,283 @@
       "highlight": true
     },
     {
-      "id": "2021_vis_glyphcreator",
+      "id": "2020_infovis_plotthread",
       "type": "journal",
-      "title": "GlyphCreator: Towards example-based automatic generation of circular glyphs",
-      "keywords": [],
+      "title": "PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning",
+      "keywords": [
+        "Layout",
+        "Visualization",
+        "Reinforcement learning",
+        "Collaboration",
+        "Task analysis",
+        "Optimization",
+        "Storyline visualization",
+        "reinforcement learning",
+        "mixed-initiative design"
+      ],
       "authors": [
-        "Ying, Lu",
         "Tang, Tan",
-        "Luo, Yuzhe",
-        "Shen, Lvkeshen",
-        "Xie, Xiao",
-        "Yu, Lingyun",
-        "Wu, Yingcai"
-      ],
-      "publisher": "IEEE",
-      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
-      "year": 2021,
-      "doi": "",
-      "resources": {
-        "official": "",
-        "pdf": "/repository/publications/2021_vis_glyphcreator/2021_vis_glyphcreator.pdf",
-        "video": "",
-        "prototype": ""
-      },
-      "thumbnails": [
-        "/repository/publications/2021_vis_glyphcreator/2021_vis_glyphcreator_thumbnail_1.jpg"
-      ],
-      "tags": [],
-      "highlight": true,
-      "awards": []
-    },
-    {
-      "id": "2021_vis_ordermonitor",
-      "type": "journal",
-      "title": "A visualization approach for monitoring order processing in e-commerce warehouse",
-      "keywords": [],
-      "authors": [
-        "Tang, Junxiu",
-        "Zhou, Yuhua",
-        "Tang, Tan",
-        "Weng, Di",
-        "Xie, Boyang",
-        "Yu, Lingyun",
-        "Zhang, Huaqiang",
-        "Wu, Yingcai"
-      ],
-      "publisher": "IEEE",
-      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
-      "year": 2021,
-      "doi": "",
-      "resources": {
-        "official": "",
-        "pdf": "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor.pdf",
-        "video": "",
-        "prototype": ""
-      },
-      "thumbnails": [
-        "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor_thumbnail_1.jpg"
-      ],
-      "tags": [],
-      "highlight": true,
-      "awards": []
-    },
-    {
-      "id": "2021_vis_socialposts",
-      "type": "journal",
-      "title": "Real-time visual analysis of high-volume social media posts",
-      "keywords": [],
-      "authors": [
+        "Li, Renzhong",
+        "Wu, Xinke",
+        "Liu, Shuhan",
         "Knittel, Johannes",
         "Koch, Steffen",
-        "Tang, Tan",
-        "Chen, Wei",
-        "Wu, Yingcai",
-        "Liu, Shixia",
-        "Ertl, Thomas"
+        "Ertl, Thomas",
+        "Yu, Lingyun",
+        "Ren, Peiran",
+        "Wu, Yingcai"
       ],
-      "publisher": "IEEE",
-      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
+      "publisher": "",
+      "publishTitle": "2021 IEEE Transactions on Visualization and Computer Graphics",
       "year": 2021,
-      "doi": "",
+      "doi": "10.1109/TVCG.2020.3030467",
       "resources": {
-        "official": "",
-        "pdf": "/repository/publications/2021_vis_socialposts/2021_vis_socialposts.pdf",
-        "video": "",
+        "official": "https://doi.org/10.1109/TVCG.2020.3030467",
+        "pdf": "/repository/publications/2020_infovis_plotthread/2020_infovis_plotthread.pdf",
+        "video": "/repository/publications/2020_infovis_plotthread/2020_infovis_plotthread.mp4",
         "prototype": ""
       },
       "thumbnails": [
-        "/repository/publications/2021_vis_socialposts/2021_vis_socialposts_thumbnail_1.jpg"
+        "/repository/publications/2020_infovis_plotthread/2020_infovis_plotthread_thumbnail_1.jpg"
       ],
       "tags": [],
       "highlight": true,
       "awards": []
     },
     {
-      "id": "2021_vis_videomoderator",
+      "id": "2020_acmmm_smartshots",
+      "type": "conference",
+      "title": "SmartShots: Enabling Automatic Generation of Videos with Data Visualizations Embedded",
+      "keywords": [
+        "visualization",
+        "storytelling",
+        "data-driven videos"
+      ],
+      "authors": [
+        "Tang, Tan",
+        "Tang, Junxiu",
+        "Lai, Jiewen",
+        "Ying, Lu",
+        "Ren, Peiran",
+        "Yu, Lingyun",
+        "Wu, Yingcai"
+      ],
+      "publisher": "Association for Computing Machinery",
+      "year": 2020,
+      "publishTitle": "2020 Proceedings of the 28th ACM International Conference on Multimedia",
+      "doi": "10.1145/3394171.3414356",
+      "resources": {
+        "official": "https://doi.org/10.1145/3394171.3414356",
+        "pdf": "",
+        "video": "/repository/publications/2020_acmmm_smartshots/3394171.3414356.mp4",
+        "prototype": ""
+      },
+      "thumbnails": [],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2020_jovi_guidelinesvideos",
       "type": "journal",
-      "title": "Videomoderator: A risk-aware framework for multimodal video moderation in e-commerce",
+      "title": "Design guidelines for augmenting short-form videos using animated data visualizations",
       "keywords": [],
       "authors": [
         "Tang, Tan",
-        "Wu, Yanhong",
-        "Wu, Yingcai",
+        "Tang, Junxiu",
+        "Hong, Jiayi",
         "Yu, Lingyun",
-        "Li, Yuhong"
+        "Ren, Peiran",
+        "Wu, Yingcai"
       ],
-      "publisher": "IEEE",
-      "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
-      "year": 2021,
-      "doi": "",
+      "publisher": "Springer",
+      "year": 2020,
+      "publishTitle": "2020 Journal of Visualization",
+      "doi": "10.1007/s12650-020-00644-z",
       "resources": {
-        "official": "",
-        "pdf": "/repository/publications/2021_vis_videomoderator/2021_vis_videomoderator.pdf",
+        "official": "https://doi.org/10.1007/s12650-020-00644-z",
+        "pdf": "",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2020_vis_narrativetransition",
+      "type": "conference",
+      "title": "Narrative Transitions in Data Videos",
+      "keywords": [
+        "Visualization",
+        "Motion segmentation",
+        "Conferences",
+        "Taxonomy",
+        "Data visualization",
+        "Data mining",
+        "Videos",
+        "Human-centered computing",
+        "Visualization",
+        "Visualization theory",
+        "concepts and paradigms"
+      ],
+      "authors": [
+        "Tang, Junxiu",
+        "Yu, Lingyun",
+        "Tang, Tan",
+        "Shu, Xinhuan",
+        "Ying, Lu",
+        "Zhou, Yuhua",
+        "Ren, Peiran",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "year": 2020,
+      "publishTitle": "2020 2020 IEEE Visualization Conference (VIS)",
+      "doi": "10.1109/VIS47514.2020.00037",
+      "resources": {
+        "official": "https://doi.org/10.1109/VIS47514.2020.00037",
+        "pdf": "/repository/publications/2020_vis_narrativetransition/Narrative_Transitions_in_Data_Videos.pdf",
+        "video": "",
+        "prototype": ""
+      },
+      "thumbnails": [],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2018_infovis_istoryline",
+      "type": "journal",
+      "title": "iStoryline: Effective Convergence to Hand-drawn Storylines",
+      "keywords": [
+        "Visualization",
+        "Layout",
+        "Tools",
+        "Motion pictures",
+        "Optimization methods",
+        "Guidelines",
+        "Hand-drawn illustrations",
+        "automatic layout",
+        "design space",
+        "interactions",
+        "optimization"
+      ],
+      "authors": [
+        "Tang, Tan",
+        "Rubab, Sadia",
+        "Lai, Jiewen",
+        "Cui, Weiwei",
+        "Yu, Lingyun",
+        "Wu, Yingcai"
+      ],
+      "publisher": "",
+      "publishTitle": "2019 IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2019,
+      "doi": "10.1109/TVCG.2018.2864899",
+      "resources": {
+        "official": "https://doi.org/10.1109/TVCG.2018.2864899",
+        "pdf": "/repository/publications/2018_infovis_istoryline/2018_infovis_istoryline.pdf",
+        "video": "/repository/publications/2018_infovis_istoryline/2018_infovis_istoryline.mp4",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2018_infovis_istoryline/2018_infovis_istoryline_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2018_jovi_unstream",
+      "type": "journal",
+      "title": "Toward the better modeling and visualization of uncertainty for streaming data",
+      "keywords": [],
+      "authors": [
+        "Tang, Tan",
+        "Yuan, Kaijuan",
+        "Tang, Junxiu",
+        "Wu, Yingcai"
+      ],
+      "publisher": "Springer",
+      "publishTitle": "2019 Journal of Visualization",
+      "year": 2019,
+      "doi": "10.1007/s12650-018-0518-y",
+      "resources": {
+        "official": "https://doi.org/10.1007/s12650-018-0518-y",
+        "pdf": "/repository/publications/2018_jovi_unstream/UNStream-jovi.pdf",
         "video": "",
         "prototype": ""
       },
       "thumbnails": [
-        "/repository/publications/2021_vis_videomoderator/2021_vis_videomoderator_thumbnail_1.jpg"
+        "/repository/publications/2018_jovi_unstream/2018_jovi_unstream_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": false,
+      "awards": []
+    },
+    {
+      "id": "2017_jvlc_unmat",
+      "type": "journal",
+      "title": "UNMAT: Visual comparison and exploration of uncertainty in large graph sampling",
+      "keywords": [
+        "Uncertainty",
+        "Graph sampling",
+        "Spread-sheet visualization"
+      ],
+      "authors": [
+        "Tan Tang",
+        "Sufei Wang",
+        "Yunfeng Li",
+        "Bohan Li",
+        "Yingcai Wu"
+      ],
+      "publisher": "",
+      "publishTitle": "2017 Journal of Visual Languages & Computing",
+      "year": 2017,
+      "doi": "10.1016/j.jvlc.2017.05.006",
+      "resources": {
+        "official": "https://doi.org/10.1016/j.jvlc.2017.05.006",
+        "pdf": "/repository/publications/2017_jvlc_unmat/2017_jvlc_unmat.pdf",
+        "video": "/repository/publications/2017_jvlc_unmat/2017_jvlc_unmat.mp4",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2017_jvlc_unmat/2017_jvlc_unmat_thumbnail_1.jpg"
+      ],
+      "tags": [],
+      "highlight": true,
+      "awards": []
+    },
+    {
+      "id": "2017_tist_socialwave",
+      "type": "journal",
+      "title": "SocialWave: Visual Analysis of Spatio-temporal Diffusion of Information on Social Media",
+      "keywords": [
+        "Spatio-temporal visualization",
+        "information diffusion",
+        "social media visualization"
+      ],
+      "authors": [
+        "Sun, Guodao",
+        "Tang, Tan",
+        "Peng, Tai-Quan",
+        "Liang, Ronghua",
+        "Wu, Yingcai"
+      ],
+      "publisher": "Association for Computing Machinery",
+      "publishTitle": "2017 ACM Trans. Intell. Syst. Technol.",
+      "year": 2017,
+      "doi": "10.1145/3106775",
+      "resources": {
+        "official": "https://doi.org/10.1145/3106775",
+        "pdf": "/repository/publications/2017_tist_socialwave/2017_tist_socialwave.pdf",
+        "video": "/repository/publications/2017_tist_socialwave/2017_tist_socialwave.mp4",
+        "prototype": ""
+      },
+      "thumbnails": [
+        "/repository/publications/2017_tist_socialwave/2017_tist_socialwave_thumbnail_1.jpg"
       ],
       "tags": [],
       "highlight": true,

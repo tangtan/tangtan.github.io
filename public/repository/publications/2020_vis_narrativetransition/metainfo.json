@@ -1,0 +1,42 @@
+{
+  "id": "2020_vis_narrativetransition",
+  "type": "conference",
+  "title": "Narrative Transitions in Data Videos",
+  "keywords": [
+    "Visualization",
+    "Motion segmentation",
+    "Conferences",
+    "Taxonomy",
+    "Data visualization",
+    "Data mining",
+    "Videos",
+    "Human-centered computing",
+    "Visualization",
+    "Visualization theory",
+    "concepts and paradigms"
+  ],
+  "authors": [
+    "Tang, Junxiu",
+    "Yu, Lingyun",
+    "Tang, Tan",
+    "Shu, Xinhuan",
+    "Ying, Lu",
+    "Zhou, Yuhua",
+    "Ren, Peiran",
+    "Wu, Yingcai"
+  ],
+  "publisher": "",
+  "year": 2020,
+  "publishTitle": "2020 2020 IEEE Visualization Conference (VIS)",
+  "doi": "10.1109/VIS47514.2020.00037",
+  "resources": {
+    "official": "https://doi.org/10.1109/VIS47514.2020.00037",
+    "pdf": "/repository/publications/2020_vis_narrativetransition/Narrative_Transitions_in_Data_Videos.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [],
+  "tags": [],
+  "highlight": false,
+  "awards": []
+}

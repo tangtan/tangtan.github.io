@@ -1,0 +1,28 @@
+{
+  "id": "2018_jovi_unstream",
+  "type": "journal",
+  "title": "Toward the better modeling and visualization of uncertainty for streaming data",
+  "keywords": [],
+  "authors": [
+    "Tang, Tan",
+    "Yuan, Kaijuan",
+    "Tang, Junxiu",
+    "Wu, Yingcai"
+  ],
+  "publisher": "Springer",
+  "publishTitle": "2019 Journal of Visualization",
+  "year": 2019,
+  "doi": "10.1007/s12650-018-0518-y",
+  "resources": {
+    "official": "https://doi.org/10.1007/s12650-018-0518-y",
+    "pdf": "/repository/publications/2018_jovi_unstream/UNStream-jovi.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2018_jovi_unstream/2018_jovi_unstream_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": false,
+  "awards": []
+}

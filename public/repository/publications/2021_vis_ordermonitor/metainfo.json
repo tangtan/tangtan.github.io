@@ -1,8 +1,20 @@
 {
   "id": "2021_vis_ordermonitor",
   "type": "journal",
-  "title": "A visualization approach for monitoring order processing in e-commerce warehouse",
-  "keywords": [],
+  "title": "A Visualization Approach for Monitoring Order Processing in E-Commerce Warehouse",
+  "keywords": [
+    "Data visualization",
+    "Monitoring",
+    "Real-time systems",
+    "Schedules",
+    "Delays",
+    "Warehousing",
+    "Visual analytics",
+    "Streaming data",
+    "time-series data",
+    "e-commerce warehouse",
+    "order processing"
+  ],
   "authors": [
     "Tang, Junxiu",
     "Zhou, Yuhua",
@@ -13,12 +25,12 @@
     "Zhang, Huaqiang",
     "Wu, Yingcai"
   ],
-  "publisher": "IEEE",
-  "publishTitle": "IEEE Transactions on Visualization and Computer Graphics",
-  "year": 2021,
-  "doi": "",
+  "publisher": "",
+  "publishTitle": "2022 IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "doi": "10.1109/TVCG.2021.3114878",
   "resources": {
-    "official": "",
+    "official": "https://doi.org/10.1109/TVCG.2021.3114878",
     "pdf": "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor.pdf",
     "video": "",
     "prototype": ""
@@ -27,6 +39,6 @@
     "/repository/publications/2021_vis_ordermonitor/2021_vis_ordermonitor_thumbnail_1.jpg"
   ],
   "tags": [],
-  "highlight": true,
+  "highlight": false,
   "awards": []
 }

@@ -1,0 +1,33 @@
+{
+  "id": "2017_tist_socialwave",
+  "type": "journal",
+  "title": "SocialWave: Visual Analysis of Spatio-temporal Diffusion of Information on Social Media",
+  "keywords": [
+    "Spatio-temporal visualization",
+    "information diffusion",
+    "social media visualization"
+  ],
+  "authors": [
+    "Sun, Guodao",
+    "Tang, Tan",
+    "Peng, Tai-Quan",
+    "Liang, Ronghua",
+    "Wu, Yingcai"
+  ],
+  "publisher": "Association for Computing Machinery",
+  "publishTitle": "2017 ACM Trans. Intell. Syst. Technol.",
+  "year": 2017,
+  "doi": "10.1145/3106775",
+  "resources": {
+    "official": "https://doi.org/10.1145/3106775",
+    "pdf": "/repository/publications/2017_tist_socialwave/2017_tist_socialwave.pdf",
+    "video": "/repository/publications/2017_tist_socialwave/2017_tist_socialwave.mp4",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2017_tist_socialwave/2017_tist_socialwave_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

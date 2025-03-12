@@ -1,0 +1,30 @@
+{
+  "id": "2024_sag_lossofsonnet",
+  "type": "conference",
+  "title": "Loss of Sonnet 18",
+  "keywords": [],
+  "authors": [
+    "Tang, Junxiu",
+    "Zhou, Jiayi",
+    "Wang, Yifang",
+    "Shu, Xinhuan",
+    "Xia, Peiquan",
+    "Chen, Xiaojiao",
+    "Tang, Tan",
+    "Wu, Yingcai"
+  ],
+  "publisher": "Association for Computing Machinery",
+  "year": 2024,
+  "publishTitle": "2024 ACM SIGGRAPH 2024 Art Gallery",
+  "doi": "10.1145/3641523.3669939",
+  "resources": {
+    "official": "https://doi.org/10.1145/3641523.3669939",
+    "pdf": "",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [],
+  "tags": [],
+  "highlight": false,
+  "awards": []
+}

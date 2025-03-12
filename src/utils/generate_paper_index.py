@@ -233,17 +233,17 @@ def generate_single_metainfo(dir_path, pub_id, existing_data=None):
     # 出版社信息
     publication["publisher"] = bibtex_data.get('publisher', '')
     
-    # 出版物标题(期刊名或会议名)
-    if publication["type"] == "conference":
-        publication["publishTitle"] = bibtex_data.get('booktitle', '')
-    else:
-        publication["publishTitle"] = bibtex_data.get('journal', '')
-    
     # 年份和DOI
     try:
         publication["year"] = int(bibtex_data.get('year', 0))
     except ValueError:
         publication["year"] = 0
+
+    # 出版物标题(期刊名或会议名) 加年份
+    if publication["type"] == "conference":
+        publication["publishTitle"] = str(publication["year"]) + ' ' + bibtex_data.get('booktitle', '')
+    else:
+        publication["publishTitle"] = str(publication["year"]) + ' ' + bibtex_data.get('journal', '')
         
     publication["doi"] = bibtex_data.get('doi', '')
     
