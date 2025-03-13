@@ -9,7 +9,7 @@
 .splitLine {
     background: linear-gradient(270deg, rgba(255, 255, 255, 0.00) 0%, #FFF 100%);
     width: 26.2vw; /* 503px */
-    height: 1px;
+    height: 0.11vh; /* 1px */
     margin-top: 8px;
 }
 

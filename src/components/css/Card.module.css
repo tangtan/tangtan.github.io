@@ -1,6 +1,6 @@
 .cardContainer {
     width: 61.5625vw; /* 1182px 61.5625vw*/
-    height: 21vh; /* 207px 22.55vh*/
+    min-height: 21vh; /* 改为最小高度，允许内容扩展 */
     position: relative;
 }
 
@@ -12,6 +12,8 @@
     border: 1px solid rgba(126, 255, 255, 0.50);
     box-shadow: 0px 0px 80px 10px rgba(0, 0, 0, 0.75);
     position: relative;
+    display: flex; /* 添加flex布局 */
+    flex-direction: column; /* 垂直排列子元素 */
 }
 
 .cardContainer .mask {
@@ -38,6 +40,9 @@
     padding: 3.486vh 1.5625vw 2.723vh 1.5625vw; /* 32px 30px 25px 30px */
     position: relative;
     z-index: 2;
+    display: flex; /* 添加flex布局 */
+    flex-direction: column; /* 垂直排列子元素 */
+    flex-grow: 1; /* 允许内容区域根据需要增长 */
 }
 
 .cardContainer .content .title {
@@ -48,6 +53,7 @@
     line-height: 3.16vh; /* 28.748px */
     letter-spacing: 1px;
     margin-bottom: 0.545vh; /* 5px */
+    word-wrap: break-word; /* 允许长文本换行 */
 }
 
 .cardContainer .content .author {
@@ -57,6 +63,7 @@
     font-weight: 350;
     line-height: 2.51vh; /* 22.998px */
     margin-bottom: 1.85vh; /* 17px */
+    word-wrap: break-word; /* 允许长文本换行 */
 }
 
 .cardContainer .content .publishTitle {
@@ -66,10 +73,11 @@
     font-weight: 300;
     line-height: 2.51vh; /* 22.998px */
     margin-bottom: 1.31vh; /* 12px */
+    word-wrap: break-word; /* 允许长文本换行 */
 }
 
 .cardContainer .content .bottomButtonsContainer {
-    /* height: 0px; */
+    margin-top: auto; /* 将按钮组推到内容区底部 */
 }
 
 .cardContainer .content .bottomButtonsContainer .button {

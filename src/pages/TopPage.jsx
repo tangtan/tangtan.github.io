@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styles from './css/TopPage.module.css';
 import Description from '../components/Description';
 import Affiliation from '../components/Affiliation';
-import { CircleIcon, DatabaseIcon, LighteningIcon, LinkIcon, SquareIcon, TriangleIcon } from '../assets/icons/svg_icons';
+import { CircleIcon, DatabaseIcon, GithubIcon, GoogleScholarIcon, LighteningIcon, LinkIcon, SquareIcon, TriangleIcon } from '../assets/icons/svg_icons';
 import photo from '../assets/images/tangtanPhoto_x215.png';
 import Thumbnail from '../components/Thumbnail';
 import Card from '../components/Card';
@@ -75,17 +75,11 @@ const TopPage = () => {
                     <p id={styles.chineseName}>唐谈</p>
                     <p id={styles.title}>Zhejiang University 100 Young Professor</p>
                     <div id={styles.websites}>
-                        <a href="https://github.com/tangtan" target="_blank" rel="noopener noreferrer" className={styles.website}>
-                            {/* <img src={githubIcon} alt="GitHub" /> */}
+                        <a className={styles.website} href="https://scholar.google.co.uk/citations?user=lhtRAFcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+                            <GoogleScholarIcon />
                         </a>
-                        <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" rel="noopener noreferrer" className={styles.website}>
-                            {/* <img src={googleScholarIcon} alt="Google Scholar" /> */}
-                        </a>
-                        <a href="https://dblp.org/pid/YOUR_ID" target="_blank" rel="noopener noreferrer" className={styles.website}>
-                            {/* <img src={dblpIcon} alt="DBLP" /> */}
-                        </a>
-                        <a href="https://orcid.org/YOUR_ID" target="_blank" rel="noopener noreferrer" className={styles.website}>
-                            {/* <img src={orcidIcon} alt="ORCID" /> */}
+                        <a className={styles.website} href="https://github.com/tangtan" target="_blank" rel="noopener noreferrer">
+                            <GithubIcon />
                         </a>
                     </div>
                 </div>
@@ -138,7 +132,8 @@ const TopPage = () => {
 
                         {/* 研究方向 */}
                         <div className={styles.researchDirectionContainer}>
-                            <p className={styles.researchDirectionTitle}>Research Directions</p>
+                            <p className={`${styles.researchDirectionTitle} ${styles.sectionTitle}`}>Research Directions</p>
+                            <LighteningIcon className={`${styles.researchDirectionIcon} ${styles.sectionTitleIcon}`} />
                             <div className={styles.researchDirectionContent}>
                                 <div className={styles.researchDirectionItem}>
                                     <CircleIcon />
@@ -162,7 +157,8 @@ const TopPage = () => {
 
                         {/* 研究项目 */}
                         <div className={styles.projectsContainer}>
-                            <p className={styles.projectsTitle}>Projects</p>
+                            <p className={`${styles.projectsTitle} ${styles.sectionTitle}`}>Projects</p>
+                            <DatabaseIcon className={`${styles.projectsIcon} ${styles.sectionTitleIcon}`} />
                             <div className={styles.projectsContent}>
                                 {loading ? (
                                     <p>Loading highlights...</p>

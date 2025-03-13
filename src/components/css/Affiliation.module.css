@@ -1,14 +1,15 @@
 .affiliation {
-    
+    min-width: 20.3125vw; /* 390px */
+    width: 100%;
 }
 
 .unitContainer {
     display: grid;
-    grid-template-columns: 47.418px 328px;
-    grid-template-rows: 20px 15px;
-    grid-column-gap: 10px;
+    grid-template-columns: 2.47vw 1fr; /* 47.418px 328px */
+    grid-template-rows: 2.18vh 1fr; /* 20px 15px */
+    grid-column-gap: 0.52vw; /* 10px */
     grid-row-gap: 0px;
-    margin-bottom: 12px;
+    margin-bottom: 1.3072vh; /* 12px */
 }
 
 .iconAndSplitContainer {
@@ -20,8 +21,8 @@
 }
 
 .iconAndSplitContainer .icon {
-    width: 40.568px;
-    height: 39px;
+    width: 2.113vw; /*40.568px*/
+    aspect-ratio: 1 / 1;
 }
 
 .iconAndSplitContainer .splitLine {
@@ -37,6 +38,8 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+
+    width: 100%;
 }
 
 .school {
@@ -53,13 +56,13 @@
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    gap: 13px;
+    gap: 0.6771vw; /* 13px */
 }
 
 .positionsContainer .position {
     border-radius: 3px;
     background: #FFF;
-    height: 19px;
+    height: 2.07vh; /*19px*/
 
     color: #000;
     font-size: 12px;

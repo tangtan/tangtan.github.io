@@ -33,7 +33,11 @@ const Card = ({
 
     // 背景图片样式
     const backgroundStyle = {
-        background: `url(${imageUrl}) lightgray 18.903px -100.878px / 100% 197.467% no-repeat`
+        backgroundImage: `url(${imageUrl})`,
+        backgroundPosition: 'center',
+        backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat',
+        backgroundColor: 'lightgray'
     };
 
     // 按钮渲染函数
@@ -52,30 +56,41 @@ const Card = ({
     };
 
     // 处理各种按钮点击
-    const handleLinkClick = () => window.open(officialLink, '_blank');
-    const handlePdfClick = () => window.open(pdf, '_blank');
-    const handleVideoClick = () => window.open(video, '_blank');
-    const handlePrototypeClick = () => window.open(prototype, '_blank');
+    const handleLinkClick = (e) => {
+        e.stopPropagation();
+        window.open(officialLink, '_blank');
+    };
+    const handlePdfClick = (e) => {
+        e.stopPropagation();
+        window.open(pdf, '_blank');
+    };
+    const handleVideoClick = (e) => {
+        e.stopPropagation();
+        window.open(video, '_blank');
+    };
+    const handlePrototypeClick = (e) => {
+        e.stopPropagation();
+        window.open(prototype, '_blank');
+    };
 
     return (
         <div className={`${styles.cardContainer} ${className || ''}`} onClick={onClick}>
             <div className={styles.backgroundImage} style={backgroundStyle}>
-            <div className={styles.mask} id={styles.mask1}/>
-            <div className={styles.mask} id={styles.mask2}/>
-            <div className={styles.mask} id={styles.mask3}/>
-            <div className={styles.content}>
-                <p className={styles.title}>{title}</p>
-                <p className={styles.author}>{authors}</p>
-                <p className={styles.publishTitle}>{publishTitle}</p>
+                <div className={styles.mask} id={styles.mask1}/>
+                <div className={styles.mask} id={styles.mask2}/>
+                <div className={styles.mask} id={styles.mask3}/>
+                <div className={styles.content}>
+                    <p className={styles.title}>{title}</p>
+                    <p className={styles.author}>{authors}</p>
+                    <p className={styles.publishTitle}>{publishTitle}</p>
 
-                <div className={styles.bottomButtonsContainer}>
-                    {renderButton('LINK', officialLink, handleLinkClick)}
-                    {renderButton('PDF', pdf, handlePdfClick)}
-                    {renderButton('VIDEO', video, handleVideoClick)}
-                    {renderButton('PROTOTYPE', prototype, handlePrototypeClick)}
+                    <div className={styles.bottomButtonsContainer}>
+                        {renderButton('LINK', officialLink, handleLinkClick)}
+                        {renderButton('PDF', pdf, handlePdfClick)}
+                        {renderButton('VIDEO', video, handleVideoClick)}
+                        {renderButton('PROTOTYPE', prototype, handlePrototypeClick)}
+                    </div>
                 </div>
-            </div>
-                
             </div>
         </div>
     );
