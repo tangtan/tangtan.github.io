@@ -1,0 +1,36 @@
+{
+  "id": "2024_vi_arteyer",
+  "type": "journal",
+  "title": "ArtEyer: Enriching GPT-based agents with contextual data visualizations for fine art authentication",
+  "keywords": [
+    "GPT agent",
+    "Data visualization",
+    "Fine art authentication"
+  ],
+  "authors": [
+    "Tan Tang",
+    "Yanhong Wu",
+    "Junming Gao",
+    "Kejia Ruan",
+    "Yanjie Zhang",
+    "Shuainan Ye",
+    "Yingcai Wu",
+    "Xiaojiao Chen"
+  ],
+  "publisher": "",
+  "year": 2024,
+  "publishTitle": "2024 Visual Informatics",
+  "doi": "https://doi.org/10.1016/j.visinf.2024.11.001",
+  "resources": {
+    "official": "https://doi.org/https://doi.org/10.1016/j.visinf.2024.11.001",
+    "pdf": "/repository/publications/2024_vi_arteyer/1-s2.0-S2468502X24000664-main.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2024_vi_arteyer/2024_vi_arteyer_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": false,
+  "awards": []
+}

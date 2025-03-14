@@ -1,0 +1,42 @@
+{
+  "id": "2021_vis_socialposts",
+  "type": "journal",
+  "title": "Real-Time Visual Analysis of High-Volume Social Media Posts",
+  "keywords": [
+    "Social networking (online)",
+    "Heuristic algorithms",
+    "Data visualization",
+    "Clustering algorithms",
+    "Real-time systems",
+    "Text analysis",
+    "Visual analytics",
+    "Social media analysis",
+    "dynamic clustering",
+    "streaming data"
+  ],
+  "authors": [
+    "Knittel, Johannes",
+    "Koch, Steffen",
+    "Tang, Tan",
+    "Chen, Wei",
+    "Wu, Yingcai",
+    "Liu, Shixia",
+    "Ertl, Thomas"
+  ],
+  "publisher": "",
+  "publishTitle": "2022 IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "doi": "10.1109/TVCG.2021.3114800",
+  "resources": {
+    "official": "https://doi.org/10.1109/TVCG.2021.3114800",
+    "pdf": "/repository/publications/2021_vis_socialposts/2021_vis_socialposts.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2021_vis_socialposts/2021_vis_socialposts_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/[http://](http://)tangtan.github.io/static/css/main.fef534da.css",
+    "main.js": "/[http://](http://)tangtan.github.io/static/js/main.3e6e520b.js",
+    "static/media/defaultThumbnailImage.png": "/[http://](http://)tangtan.github.io/static/media/defaultThumbnailImage.ed902d48c002bf66291e.png",
+    "static/media/defaultCardImage.png": "/[http://](http://)tangtan.github.io/static/media/defaultCardImage.7b982ffe46855e013a9d.png",
+    "static/media/tangtanPhoto_x215.png": "/[http://](http://)tangtan.github.io/static/media/tangtanPhoto_x215.176f476186b840bda93d.png",
+    "index.html": "/[http://](http://)tangtan.github.io/index.html",
+    "main.fef534da.css.map": "/[http://](http://)tangtan.github.io/static/css/main.fef534da.css.map",
+    "main.3e6e520b.js.map": "/[http://](http://)tangtan.github.io/static/js/main.3e6e520b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef534da.css",
+    "static/js/main.3e6e520b.js"
+  ]
+}

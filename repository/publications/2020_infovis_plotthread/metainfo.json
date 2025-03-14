@@ -1,0 +1,44 @@
+{
+  "id": "2020_infovis_plotthread",
+  "type": "journal",
+  "title": "PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning",
+  "keywords": [
+    "Layout",
+    "Visualization",
+    "Reinforcement learning",
+    "Collaboration",
+    "Task analysis",
+    "Optimization",
+    "Storyline visualization",
+    "reinforcement learning",
+    "mixed-initiative design"
+  ],
+  "authors": [
+    "Tang, Tan",
+    "Li, Renzhong",
+    "Wu, Xinke",
+    "Liu, Shuhan",
+    "Knittel, Johannes",
+    "Koch, Steffen",
+    "Ertl, Thomas",
+    "Yu, Lingyun",
+    "Ren, Peiran",
+    "Wu, Yingcai"
+  ],
+  "publisher": "",
+  "publishTitle": "2021 IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2021,
+  "doi": "10.1109/TVCG.2020.3030467",
+  "resources": {
+    "official": "https://doi.org/10.1109/TVCG.2020.3030467",
+    "pdf": "/repository/publications/2020_infovis_plotthread/2020_infovis_plotthread.pdf",
+    "video": "/repository/publications/2020_infovis_plotthread/2020_infovis_plotthread.mp4",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2020_infovis_plotthread/2020_infovis_plotthread_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

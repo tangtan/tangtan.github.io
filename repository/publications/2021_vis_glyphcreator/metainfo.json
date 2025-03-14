@@ -1,0 +1,42 @@
+{
+  "id": "2021_vis_glyphcreator",
+  "type": "journal",
+  "title": "GlyphCreator: Towards Example-based Automatic Generation of Circular Glyphs",
+  "keywords": [
+    "Data visualization",
+    "Visualization",
+    "Layout",
+    "Deep learning",
+    "Data mining",
+    "Tools",
+    "Task analysis",
+    "Glyph-based visualization",
+    "machine learning",
+    "automatic visualization"
+  ],
+  "authors": [
+    "Ying, Lu",
+    "Tang, Tan",
+    "Luo, Yuzhe",
+    "Shen, Lvkeshen",
+    "Xie, Xiao",
+    "Yu, Lingyun",
+    "Wu, Yingcai"
+  ],
+  "publisher": "",
+  "publishTitle": "2022 IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2022,
+  "doi": "10.1109/TVCG.2021.3114877",
+  "resources": {
+    "official": "https://doi.org/10.1109/TVCG.2021.3114877",
+    "pdf": "/repository/publications/2021_vis_glyphcreator/2021_vis_glyphcreator.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2021_vis_glyphcreator/2021_vis_glyphcreator_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": false,
+  "awards": []
+}

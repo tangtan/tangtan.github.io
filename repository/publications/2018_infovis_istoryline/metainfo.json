@@ -1,0 +1,42 @@
+{
+  "id": "2018_infovis_istoryline",
+  "type": "journal",
+  "title": "iStoryline: Effective Convergence to Hand-drawn Storylines",
+  "keywords": [
+    "Visualization",
+    "Layout",
+    "Tools",
+    "Motion pictures",
+    "Optimization methods",
+    "Guidelines",
+    "Hand-drawn illustrations",
+    "automatic layout",
+    "design space",
+    "interactions",
+    "optimization"
+  ],
+  "authors": [
+    "Tang, Tan",
+    "Rubab, Sadia",
+    "Lai, Jiewen",
+    "Cui, Weiwei",
+    "Yu, Lingyun",
+    "Wu, Yingcai"
+  ],
+  "publisher": "",
+  "publishTitle": "2019 IEEE Transactions on Visualization and Computer Graphics",
+  "year": 2019,
+  "doi": "10.1109/TVCG.2018.2864899",
+  "resources": {
+    "official": "https://doi.org/10.1109/TVCG.2018.2864899",
+    "pdf": "/repository/publications/2018_infovis_istoryline/2018_infovis_istoryline.pdf",
+    "video": "/repository/publications/2018_infovis_istoryline/2018_infovis_istoryline.mp4",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2018_infovis_istoryline/2018_infovis_istoryline_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

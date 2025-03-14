@@ -1,0 +1,42 @@
+{
+  "id": "2023_visap_postnoresponse",
+  "type": "conference",
+  "title": "Posts with No Response: The Island of Loneliness",
+  "keywords": [
+    "Art",
+    "Social networking (online)",
+    "Data visualization",
+    "Information age",
+    "Complexity theory",
+    "Social Media",
+    "Loneliness",
+    "Physical Visualization",
+    "Data Visualization",
+    "Data Art"
+  ],
+  "authors": [
+    "Tang, Junxiu",
+    "Shu, Xinhuan",
+    "Sheng, Rui",
+    "Chen, Xiaojiao",
+    "Wang, Yifang",
+    "Tang, Tan",
+    "Wu, Yingcai"
+  ],
+  "publisher": "",
+  "year": 2023,
+  "publishTitle": "2023 2023 IEEE VIS Arts Program (VISAP)",
+  "doi": "10.1109/VISAP60414.2023.00007",
+  "resources": {
+    "official": "https://doi.org/10.1109/VISAP60414.2023.00007",
+    "pdf": "/repository/publications/2023_visap_postnoresponse/Posts_with_No_Response_The_Island_of_Loneliness.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2023_visap_postnoresponse/2023_visap_postnoresponse_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}

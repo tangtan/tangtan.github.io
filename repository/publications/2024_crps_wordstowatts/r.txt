@@ -1,0 +1,10 @@
+@article{zhao2024potential,
+  title={Potential to transform words to watts with large language models in battery research},
+  author={Zhao, Shuo and Chen, Sihui and Zhou, Jiayi and Li, Chao and Tang, Tan and Harris, Stephen J and Liu, Yang and Wan, Jiayu and Li, Xin},
+  journal={Cell Reports Physical Science},
+  volume={5},
+  number={3},
+  year={2024},
+  publisher={Elsevier},
+  doi={10.1016/j.xcrp.2024.101844}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2020_acmmm_smartshots",
+  "type": "conference",
+  "title": "SmartShots: Enabling Automatic Generation of Videos with Data Visualizations Embedded",
+  "keywords": [
+    "visualization",
+    "storytelling",
+    "data-driven videos"
+  ],
+  "authors": [
+    "Tang, Tan",
+    "Tang, Junxiu",
+    "Lai, Jiewen",
+    "Ying, Lu",
+    "Ren, Peiran",
+    "Yu, Lingyun",
+    "Wu, Yingcai"
+  ],
+  "publisher": "Association for Computing Machinery",
+  "year": 2020,
+  "publishTitle": "2020 Proceedings of the 28th ACM International Conference on Multimedia",
+  "doi": "10.1145/3394171.3414356",
+  "resources": {
+    "official": "https://doi.org/10.1145/3394171.3414356",
+    "pdf": "",
+    "video": "/repository/publications/2020_acmmm_smartshots/3394171.3414356.mp4",
+    "prototype": ""
+  },
+  "thumbnails": [],
+  "tags": [],
+  "highlight": false,
+  "awards": []
+}

@@ -1,0 +1,44 @@
+{
+  // 范例文件
+  // 论文索引文件，用于生成论文列表，自动生成，但需要支持手动修改
+  "fileName": "paper_index.json",
+  "publications": [
+    {
+      "id": "2023_uist_pcolorizer", // 跟目录相同，读取publications下的单个publication目录名称作为id
+      "type": "conference", // 根据bibtex文件自动生成: inproceedings为会议论文集中的一篇文章，conference和inproceedings相同, 赋值为conference; article赋值为journal
+      "title": "PColorizor: Re-coloring Ancient Chinese Paintings with Ideorealm-congruent Poems", // 根据bibtex文件自动生成
+      "keywords": [
+        "Ancient Chinese Art",
+        "Color Restoration",
+        "Visual Analytic"
+      ], // 根据bibtex文件自动生成
+      "authors": [
+        "Tang, Tan",
+        "Wu, Yanhong",
+        "Xia, Peiquan"
+      ], // 根据bibtex文件自动生成
+      "publisher": "ACM", // 根据bibtex文件自动生成
+      "publishTitle": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology", // 根据bibtex文件自动生成，期刊名或会议名
+      "year": 2023, // 根据bibtex文件自动生成
+      "doi": "10.1145/3586183.3606814", // 根据bibtex文件自动生成
+      "resources": {
+        "official": "https://doi.org/10.1145/3586183.3606814", // 根据bibtex文件自动生成
+        "pdf": "/repository/publication/2023_uist_pcolorizer/2023_uist_pcolorizer.pdf", // 读取目录中的pdf文件，自动生成路径，没有则留空
+        "video": "https://www.youtube.com/watch?v=m13XCcBdR-g&feature=youtu.be", // 读取目录中的视频文件，自动生成路径，没有则留空
+        "prototype": "https://github.com/xxxxx" // 手动输入
+      },
+      "thumbnails": [
+        "/repository/publication/2023_uist_pcolorizer/QQ图片20250311233510.png",
+        "/repository/publication/2023_uist_pcolorizer/QQ图片20250311233559.png"
+      ], // 读取目录中的图片文件，自动生成路径，没有则读取pdf文件，自动读取pdf中的前两张图片作为缩略图
+      "tags": [
+        "Medical AI",
+        "Radiology"
+      ], // 现阶段：手动填写；未来：LLM agent分析 或 根据期刊打tag
+      "awards": [
+        "Editor's Choice"
+      ], //手动填写
+      "highlight": false // 是否为高亮项目，展示在HOME页面，默认为false，需要手动填写
+    }
+  ]
+}

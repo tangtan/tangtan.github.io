@@ -1,0 +1,43 @@
+{
+  "id": "2024_tvcg_spatialvisualizing",
+  "type": "journal",
+  "title": "Visualizing Large-Scale Spatial Time Series with GeoChron",
+  "keywords": [
+    "Visualization",
+    "Market research",
+    "Spatiotemporal phenomena",
+    "Correlation",
+    "Data visualization",
+    "Time series analysis",
+    "Layout",
+    "Spatiotemporal visualization",
+    "spatial time series",
+    "Storyline"
+  ],
+  "authors": [
+    "Deng, Zikun",
+    "Chen, Shifu",
+    "Schreck, Tobias",
+    "Deng, Dazhen",
+    "Tang, Tan",
+    "Xu, Mingliang",
+    "Weng, Di",
+    "Wu, Yingcai"
+  ],
+  "publisher": "",
+  "year": 2024,
+  "publishTitle": "2024 IEEE Transactions on Visualization and Computer Graphics",
+  "doi": "10.1109/TVCG.2023.3327162",
+  "resources": {
+    "official": "https://doi.org/10.1109/TVCG.2023.3327162",
+    "pdf": "/repository/publications/2024_tvcg_spatialvisualizing/Visualizing_Large-Scale_Spatial_Time_Series_with_GeoChron.pdf",
+    "video": "",
+    "prototype": ""
+  },
+  "thumbnails": [
+    "/repository/publications/2024_tvcg_spatialvisualizing/2024_tvcg_spatialvisualizing_thumbnail_1.jpg"
+  ],
+  "tags": [],
+  "highlight": true,
+  "awards": []
+}
