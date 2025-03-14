@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "/",
+  "homepage": "[http://](http://)tangtan.github.io/",
   "eslintConfig": {
     "extends": [
       "react-app",
