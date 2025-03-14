@@ -73,7 +73,7 @@ const TopPage = () => {
                     />
                     <p id={styles.englishName}>Tan Tang</p>
                     <p id={styles.chineseName}>唐谈</p>
-                    <p id={styles.title}>Zhejiang University 100 Young Professor</p>
+                    <p id={styles.title}>Zhejiang University Assistant Professor</p>
                     <div id={styles.websites}>
                         <a className={styles.website} href="https://scholar.google.co.uk/citations?user=lhtRAFcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
                             <GoogleScholarIcon />
@@ -87,17 +87,17 @@ const TopPage = () => {
                 {/* 描述部分 */}
                 <div className={styles.descriptionContainer}>
                     <Description title="Current Affiliation" contentClassName={styles.description}>
-                        <Affiliation lab="Lab Of Art And Archaeology Image, ZJU" school="School of Art and Archeaology" positions={["Researcher", "Doctoral Supervisor"]} />
-                        <Affiliation lab="State Key Lab of CAD&CG, ZJU" school="College of Computer Science And Technology" positions={["Researcher", "Doctoral Supervisor"]} />
+                        <Affiliation lab="Lab of Art and Archaeology Image" school="School of Art and Archeaology, ZJU" href="http://www.soaa.zju.edu.cn/" positions={["Researcher", "Doctoral Supervisor"]} />
+                        <Affiliation lab="Interactive Data Group" school="State Key Lab of CAD&CG, ZJU" href="https://zjuidg.org/" positions={["Researcher", "Doctoral Supervisor"]} />
                     </Description>
 
                     <Description title="Contact">
-                        <p>No. 148 Tianmushan Road, Xixi Campus, ZJU, Hangzhou, 310007, China</p>
+                        <p>No. 148 Tianmushan Road, Xixi Campus, Zhejiang University, Hangzhou, 310007, China</p>
                         <p>tangtan@zju.edu.cn</p>
                     </Description>
 
                     <Description title="Join Us !">
-                        <p>I am actively looking for prospective <strong>Postgraduate students, doctoral students</strong> and <strong>PostDocs</strong> who are interested in joining or collaborating with us, across disciplines. If you are interested, please feel free to <strong>send me an email</strong></p>
+                        <p>I am actively looking for prospective <strong>Postgraduate Students, Undergraduate Students</strong> and <strong>PostDocs</strong> who are interested in joining or collaborating with us. Please feel free to <strong>send me an email</strong></p>
                     </Description>
                 </div>
             </div>
@@ -126,8 +126,8 @@ const TopPage = () => {
                     <>
                         {/* 标语部分 */}
                         <div className={styles.sloganContainer}>
-                            <p className={styles.sloganTitle}>Innovating Human-Computer Interaction</p>
-                            <p className={styles.sloganText}>Exploring new frontiers in cross-disciplinary research between art and technology</p>
+                            <p className={styles.sloganTitle}>Where Art Meets Open Possibilities</p>
+                            <p className={styles.sloganText}>We're building bridges between art, science, and technology, where every mind can contribute and every voice can be heard.</p>
                         </div>
 
                         {/* 研究方向 */}
@@ -137,27 +137,27 @@ const TopPage = () => {
                             <div className={styles.researchDirectionContent}>
                                 <div className={styles.researchDirectionItem}>
                                     <CircleIcon />
-                                    <p className={styles.title}>艺术x科技</p>
-                                    <p className={styles.text}>探索人工智能在艺术设计中扮演的角色，探究人工智能与人类智慧在设计创作中的协同机制</p>
+                                    <p className={styles.title}>Data Visualization</p>
+                                    <p className={styles.text}>Studying how data being mapped to visual forms.</p>
                                 </div>
                                 <LinkIcon />
                                 <div className={styles.researchDirectionItem}>
                                     <SquareIcon />
-                                    <p className={styles.title}>大数据x人文艺术</p>
-                                    <p className={styles.text}>利用大数据+软件工程的方法来促进普通人对于人文艺术的理解、分析与"再"创作。</p>
+                                    <p className={styles.title}>AI+HCI</p>
+                                    <p className={styles.text}>Understanding how AI fosters various design tasks.</p>
                                 </div>
                                 <LinkIcon />
                                 <div className={styles.researchDirectionItem}>
                                     <TriangleIcon />
-                                    <p className={styles.title}>人工智能x扩展现实</p>
-                                    <p className={styles.text}>探索如何利用AI技术增强XR体验，以实现更智能化、沉浸式的虚拟现实应用。</p>
+                                    <p className={styles.title}>Data Art</p>
+                                    <p className={styles.text}>Exploring how data inspires creativity and innovations.</p>
                                 </div>
                             </div>
                         </div>
 
                         {/* 研究项目 */}
                         <div className={styles.projectsContainer}>
-                            <p className={`${styles.projectsTitle} ${styles.sectionTitle}`}>Projects</p>
+                            <p className={`${styles.projectsTitle} ${styles.sectionTitle}`}>Pined Projects</p>
                             <DatabaseIcon className={`${styles.projectsIcon} ${styles.sectionTitleIcon}`} />
                             <div className={styles.projectsContent}>
                                 {loading ? (

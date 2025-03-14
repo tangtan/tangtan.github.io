@@ -62,7 +62,7 @@
 .positionsContainer .position {
     border-radius: 3px;
     background: #FFF;
-    height: 2.07vh; /*19px*/
+    height: 100%; /*19px*/
 
     color: #000;
     font-size: 12px;

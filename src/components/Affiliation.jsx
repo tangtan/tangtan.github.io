@@ -11,7 +11,7 @@ import zjuIcon from '../assets/icons/zju.png';
  * @param {string} props.positions[].name - 职位名称
  * @returns {JSX.Element}
  */
-const Affiliation = ({ lab, school, positions = [] }) => {
+const Affiliation = ({ lab, school, href, positions = [] }) => {
     return (
         <div className={styles.affiliation}>
             {/* 单位信息区块 */}
@@ -24,7 +24,7 @@ const Affiliation = ({ lab, school, positions = [] }) => {
                     />
                     <div className={styles.splitLine} />
                 </div>
-                <p className={styles.lab}>{lab}</p>
+                <a className={styles.lab} href={href}>{lab}</a>
                 <p className={styles.school}>{school}</p>
             </div>
             {/* 职位标签区块 */}
